@@ -6,3 +6,6 @@ The `environments` folder separates configurations for `dev` and `prod`, each ha
 The root files (`main.tf`, `variables.tf`, `providers.tf`) define shared logic, inputs, and Azure provider configuration.
 
 The `.github/workflows/terraform.yml` enables CI/CD for automated validation, planning, and deployment.
+
+
+My Azure free tier has already been used up.
